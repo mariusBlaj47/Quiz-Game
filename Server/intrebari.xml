@@ -1,0 +1,83 @@
+<quiz>
+  <problem value="1">
+    <question>Which of the following languages could be used in both Visual Studio and Unity?</question>
+    <answerA>A.Cobol</answerA>
+    <answerB>B.C#</answerB>
+    <answerC>C.C−−</answerC>
+    <answerD>D.French</answerD>
+    <correct>B</correct>
+  </problem>
+  <problem value="2">
+    <question>What does XML stand for?</question>
+    <answerA>A.eXtremely Muddy Language</answerA>
+    <answerB>B.Xerxes, the Magnificent Chameleon</answerB>
+    <answerC>C.eXtensible Markup Language</answerC>
+    <answerD>D.eXecutes with Multiple Limitations</answerD>
+    <correct>C</correct>
+  </problem>
+   <problem value="3">
+    <question>Which one of the particular radiation can damage DNA? </question>
+    <answerA>A.Electromagnetic</answerA>
+    <answerB>B.Atomic</answerB>
+    <answerC>C.Infrared</answerC>
+    <answerD>D.Magnetic</answerD>
+    <correct>A</correct>
+  </problem>
+   <problem value="4">
+    <question>Which mission of NASA brought first human to moon? </question>
+    <answerA>A.Apollo program</answerA>
+    <answerB>B.Gemini Program</answerB>
+    <answerC>C.Mercury Program</answerC>
+    <answerD>D.None of the above</answerD>
+    <correct>A</correct>
+  </problem>
+   <problem value="5">
+    <question>Name the NASA’s first exploration mission beyond earth? </question>
+    <answerA>A.Pioneer P-1</answerA>
+    <answerB>B.Pioneer 2</answerB>
+    <answerC>C.Pioneer 3</answerC>
+    <answerD>D.Pioneer 4</answerD>
+    <correct>D</correct>
+  </problem>
+   <problem value="6">
+    <question>Where Kidneys are present in our body? </question>
+    <answerA>A.At back, just above the waist.</answerA>
+    <answerB>B.At back, behind lungs</answerB>
+    <answerC>C.Near belly button</answerC>
+    <answerD>D.Behind pancreas gland</answerD>
+    <correct>A</correct>
+  </problem>
+   <problem value="7">
+    <question>The best long term solution for kidney failure is: </question>
+    <answerA>A.Kidney transplant</answerA>
+    <answerB>B.Dialysis</answerB>
+    <answerC>C.Both A and B</answerC>
+    <answerD>D.Neither A nor B</answerD>
+    <correct>A</correct>
+  </problem>
+   <problem value="8">
+    <question>What is the unit of the magnitude of the weight? </question>
+    <answerA>A.Distance (meter)</answerA>
+    <answerB>B.Mass (grams)</answerB>
+    <answerC>C.Force (Newton)</answerC>
+    <answerD>D.None of the above</answerD>
+    <correct>C</correct>
+  </problem>
+   <problem value="9">
+    <question>Secondary air pollutant is: </question>
+    <answerA>A.Ozone</answerA>
+    <answerB>B.Carbon monoxide</answerB>
+    <answerC>C.Nitrogen Dioxide</answerC>
+    <answerD>D.Sulphur dioxide</answerD>
+    <correct>A</correct>
+  </problem>
+   <problem value="10">
+    <question>Which of the following is a use of ethanol? </question>
+    <answerA>A.Manufacturing paints </answerA>
+    <answerB>B.In cough syrups </answerB>
+    <answerC>C.In alcoholic drinks </answerC>
+    <answerD>D.All of the above</answerD>
+    <correct>D</correct>
+  </problem>
+   
+</quiz>
